@@ -1,0 +1,48 @@
+[33mcommit a1cf6596a20097679ec76625ea654d0b08abe7c2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 061dfbb 00bbb65
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:21:30 2026 +0900
+
+    Merge branch 'Dinos'
+
+[33mcommit 061dfbb23b0da3267b911ac3fc82838523c260bb[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:20:44 2026 +0900
+
+    update NC members
+
+[33mcommit 00bbb653e3137e0eb684e06bed22932cf9f976c6[m[33m ([m[1;32mDinos[m[33m)[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:19:33 2026 +0900
+
+    update nc members
+
+[33mcommit 02f967db04c465290aca1843fdd1ec8e34d46647[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:17:15 2026 +0900
+
+    update Lotte
+
+[33mcommit 70da892a788347b4c9792d876094644797e08729[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:14:49 2026 +0900
+
+    create teams
+
+[33mcommit 2d3b56772ef270b97fc5593b1cf697de418c84eb[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:08:47 2026 +0900
+
+    create KIA
+
+[33mcommit 05212d3518e563152bd040d281873d2ff0a92c19[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 17:03:32 2026 +0900
+
+    gitignore
+
+[33mcommit b4f842302f320ee2ebd4d71a96d0b62576462bb0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 소민 <kso020521@gmail.com>
+Date:   Wed Jul 15 16:46:22 2026 +0900
+
+    first commit
